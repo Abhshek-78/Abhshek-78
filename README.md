@@ -1,107 +1,24 @@
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                       CYBERNETIC TERMINAL HEADER                          -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+# 💫 About Me:
+I’m Abhishek, a Full Stack Developer skilled in the MERN stack, with hands-on experience in building scalable web applications, real-time systems, and automation tools. I also explore Machine Learning and Cybersecurity fundamentals, combining development with intelligent and secure system design. Passionate about innovation, I actively participate in hackathons and build solutions that create real-world impact.
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=3500&pause=800&color=00FF66&center=true&vCenter=true&width=700&lines=INITIALIZING_ROOT_ACCESS...;DECRYPTING_NEURAL_MAINFRAME...;WELCOME_TO_THE_CYBER_MATRIX" alt="Terminal Typing Effect" />
-</h1>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/KERNEL-5.15.0_ARCH-00ff66?style=for-the-badge&logo=archlinux&logoColor=00ff66" alt="Kernel" />
-  <img src="https://img.shields.io/badge/FIREWALL-ACTIVE-ff0055?style=for-the-badge&logo=kalilinux&logoColor=ff0055" alt="Firewall" />
-  <img src="https://img.shields.io/badge/NODE-CONNECTED-00f0ff?style=for-the-badge&logo=gnu-bash&logoColor=00f0ff" alt="Node" />
-</p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishek-379948289) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhi.2005arya@gmail.com) 
 
----
+# 💻 Tech Stack:
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Abhshek-78&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Abhshek-78&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhshek-78&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-### 👁️ `root@matrix:~# ./load_avatar_and_identity.sh`
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Abhshek-78&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<table width="100%" style="border: none;">
-  <tr>
-    <td width="35%" align="center">
-      <!-- 
-        MATRIX PHOTO EFFECT: 
-        Replace the URL below with your actual profile picture link.
-        The wrapper/border gives it a holographic/cyber screen bezel.
-      -->
-      <img src="https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=400&auto=format&fit=crop&q=80" width="220px" style="border-radius: 15px; border: 2px solid #00ff66; box-shadow: 0 0 20px #00ff66;" alt="Hacker Avatar" />
-      <br>
-      <code>[MATRIX_AVATAR_LOADED]</code>
-    </td>
-    <td width="65%" valign="top">
-      <p><code>&gt;&gt; SYSTEM USER:</code> <b>YOUR_NAME</b></p>
-      <p><code>&gt;&gt; PRIMARY FOCUS:</code> Full-Stack Development, Cyber Security & Systems Engineering.</p>
-      <p><code>&gt;&gt; ACTIVE STATUS:</code> <span style="color: #00ff66;">● ONLINE (DEEP IN THE CODE)</span></p>
-      <p><code>&gt;&gt; MISSION:</code> Building high-performance software while dodging digital firewalls.</p>
-      <br>
-      <!-- Binary Matrix Stream Accent -->
-      <img src="https://capsule-render.vercel.app/api?type=waving&color=00ff66&height=65&section=footer&text=01001000%2001000001%2001000011%2001001011%2001000101%2001010010&fontSize=16&fontColor=00ff66" width="100%" alt="Binary Stream" />
-    </td>
-  </tr>
-</table>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Abhshek-78&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Abhshek-78&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 🦅 `root@matrix:~# ./deploy_cyber_drone.sh`
-
-> *Live animated digital signal passing through the grid:*
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:00ff66&height=4&section=header&animation=fadeIn" width="100%" alt="Laser Line" />
-</p>
-
-<!-- Dynamic Terminal Hacker Graphic / Code Wave -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&color=00ff66&line=00ff66&point=ff0055&area=true&area_color=00ff66" alt="Activity Graph" width="100%" />
-</p>
-
----
-
-### 📊 `root@matrix:~# live_telemetry_stream --stats`
-
-<p align="center">
-  <!-- GitHub Stats Card (Tokyo Night / Neon Hacker Theme) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&ring_color=00ff66&icon_color=00ff66" alt="GitHub Stats" width="48%" />
-  
-  <!-- Top Languages Matrix Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=7&card_width=320" alt="Top Languages" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&fire=00ff66&sideLabels=true" alt="GitHub Streak" width="100%" />
-</p>
-
----
-
-### 🛠️ `root@matrix:~# cat /etc/arsenal.conf`
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash,html,css,js,ts,react,nodejs,express,python,rust,docker,mongodb,postgresql,mysql,postman,vim" alt="Tech Stack" />
-</p>
-
----
-
-### 🌐 `root@matrix:~# netstat -secure_link`
-
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/YOUR_TWITTER" target="_blank">
-    <img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://discord.com/users/YOUR_DISCORD_ID" target="_blank">
-    <img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
-  <a href="mailto:YOUR_EMAIL@example.com">
-    <img src="https://img.shields.io/badge/SECURE_MAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
-
----
-
-### 📈 `root@matrix:~# tail -f /var/log/visitors.log`
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=00ff66&style=flat-square&label=MATRIX+CONNECTIONS" alt="Visitor Count" />
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
